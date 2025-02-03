@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on MER (Music Emotion Recognition) 
+- 🔭 I’m currently working on Computer Vision related applied to brain MRIs
 - 🌱 I’m currently learning React, FastAPI, and MER related works
 - 📫 How to reach me: https://www.linkedin.com/in/stiven-hidri/
 - 💪🏼 Gymrat
