@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Computer Vision applied to brain MRIs
-- 🌱 I’m currently learning AWS
 - 📫 How to reach me: https://www.linkedin.com/in/stiven-hidri/
 - 💻 LeetCode everyday
 - 💪🏼 Gymrat
