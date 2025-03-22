@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- 📫 How to reach me: https://www.linkedin.com/in/stiven-hidri/
-- 💻 LeetCode everyday
-- 💪🏼 Gymrat
+Work in progress...
 
 <h2 align="left">I code with</h2>
 
